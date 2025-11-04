@@ -1,0 +1,20 @@
+support,itemsets
+0.2959901295496607,frozenset({'acc_chest_vm'})
+0.8806086777709233,frozenset({'acc_left_vm'})
+0.4210158338474193,frozenset({'acc_right_vm'})
+0.6135307423401193,frozenset({'mag_left_vm'})
+0.7888546164918775,frozenset({'mag_right_vm'})
+0.26802385358832,"frozenset({'acc_left_vm', 'acc_chest_vm'})"
+0.2291589553773391,"frozenset({'acc_chest_vm', 'acc_right_vm'})"
+0.08764137363767222,"frozenset({'mag_right_vm', 'acc_chest_vm'})"
+0.3061895949002673,"frozenset({'acc_left_vm', 'acc_right_vm'})"
+0.5166358215093564,"frozenset({'acc_left_vm', 'mag_left_vm'})"
+0.6703680855439029,"frozenset({'acc_left_vm', 'mag_right_vm'})"
+0.09512646514497224,"frozenset({'mag_left_vm', 'acc_right_vm'})"
+0.21155665227225992,"frozenset({'mag_right_vm', 'acc_right_vm'})"
+0.6081431215299198,"frozenset({'mag_right_vm', 'mag_left_vm'})"
+0.2057577626979231,"frozenset({'acc_left_vm', 'acc_chest_vm', 'acc_right_vm'})"
+0.060579888957433686,"frozenset({'acc_left_vm', 'mag_right_vm', 'acc_chest_vm'})"
+0.09763520460621015,"frozenset({'acc_left_vm', 'mag_right_vm', 'acc_right_vm'})"
+0.5121529919802591,"frozenset({'acc_left_vm', 'mag_right_vm', 'mag_left_vm'})"
+0.09142504626773597,"frozenset({'mag_right_vm', 'mag_left_vm', 'acc_right_vm'})"
